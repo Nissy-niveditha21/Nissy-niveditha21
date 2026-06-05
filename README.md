@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto:gradient&height=250&section=header&text=Nissy%20Niveditha&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Nissy%20Niveditha&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
 
   <h3>✨ Transforming Complex Logic into Scalable, Component-Driven Interfaces ✨</h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/nissy-niveditha-vanguri-938b81283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" hspace="5"/></a>
     <a href="mailto:nissyniveditha21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" hspace="5"/></a>
-    <a href="https://github.com/Nissy-niveditha21"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-000000?style=for-the-badge&logo=github&logoColor=white" hspace="5"/></a>
+    <a href="https://github.com/Nissy-niveditha21"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" hspace="5"/></a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Frontend+Architect+In+The+Making;GSSoC+'26+Open+Source+Mentee;Hack2Skills+Campus+Ambassador;AWS+Certified+Associate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Backend+Architect+In+The+Making;GSSoC+'26+Open+Source+Mentee;Hack2Skills+Campus+Ambassador" alt="Typing SVG" />
 </div>
 
 ---
@@ -54,7 +54,6 @@ I am an ambitious Computer Science & Engineering undergrad specialized in buildi
 ```tasks
 [✓] Mentee @ GirlScript Summer of Code (GSSoC '26)
 [✓] Campus Ambassador @ Hack2Skills 
-[✓] AWS Certified Developer – Associate
 [✓] IBM Python for Data Science Certified
 [✓] HackerRank Java & Python Certified
 [✓] ServiceNow AICTE Virtual Intern
