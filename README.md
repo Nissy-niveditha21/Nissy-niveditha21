@@ -9,7 +9,7 @@
     <a href="https://github.com/Nissy-niveditha21"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" hspace="5"/></a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Backend+Architect+In+The+Making;GSSoC+'26+Open+Source+Mentee;Hack2Skills+Campus+Ambassador" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=GSSoC+'26+Open+Source+Mentee;Problem+Solver+&+DSA+Learner;Turning+Ideas+into+Code" alt="Typing SVG" />
 </div>
 
 ---
